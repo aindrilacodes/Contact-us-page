@@ -1,0 +1,14 @@
+{
+  "name": "contact-us-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tailwindcss -i ./public/input.css -o ./src/style.css --watch "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
